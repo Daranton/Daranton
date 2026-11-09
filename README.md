@@ -1,4 +1,13 @@
-## Hi there 👋
+```
+$ finger Daran
+Login: daranton                         Name: Anton Darahan
+Directory: /home/london                 Shell: /bin/bash
+Languages: python, c++
+Plan:
+  Python is home. C++ is homework.
+  Built: ordering-system, agentic-todoist
+  Mail:  linkedin.com/in/antondarahan
+```
 
 <!--
 **Daranton/Daranton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
