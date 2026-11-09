@@ -1,5 +1,5 @@
 ```
-$ finger Daran
+$ finger daranton
 Login: daranton                         Name: Anton Darahan
 Directory: /home/london                 Shell: /bin/bash
 Languages: python, c++
