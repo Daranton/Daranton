@@ -6,7 +6,7 @@ Languages: python, c++
 Plan:
   Python is home. C++ is homework.
   Built: ordering-system, agentic-todoist
-  Mail:  linkedin.com/in/antondarahan
+  Mail:  Daranton.public@proton.me
 ```
 
 <!--
