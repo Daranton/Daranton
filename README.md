@@ -1,25 +1,14 @@
 ```
 $ finger daranton
-Login: daranton                         Name: Anton Darahan
-Directory: /home/london                 Shell: /bin/bash
+Login: daranton                       Name: Anton Darahan
+Directory: /home/london               Shell: /bin/bash
 Languages: python, c++
+Mail: Daranton.public@proton.me
+
 Plan:
-  Python is home. C++ is homework.
-  Built: ordering-system, agentic-todoist
-  Mail:  Daranton.public@proton.me
+  Python is home, C++ is homework.
+  Built:     ordering-system, agentic-todoist
+  Building:  limit order book / matching engine (c++)
 ```
 
-<!--
-**Daranton/Daranton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ordering-system](https://github.com/Daranton/ordering-system) · [agentic-todoist](https://github.com/Daranton/agentic-todoist)
