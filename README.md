@@ -6,7 +6,7 @@ Languages: python, c++
 Mail: Daranton.public@proton.me
 
 Plan:
-  Python is home, C++ is homework.
+  Python, C++.
   Built:     ordering-system, agentic-todoist
   Building:  limit order book / matching engine (c++)
 ```
